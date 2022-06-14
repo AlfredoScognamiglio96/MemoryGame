@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MemoryGameApp_V2</string>
+    <string name="memory_card">Memory Card</string>
+    <string name="game">Game</string>
+    <string name="logo">logo</string>
+    <string name="immagine_background">immagine_background</string>
+    <string name="mosse_0">Mosse : 0</string>
+    <string name="image_button">TODO</string>
+</resources>
